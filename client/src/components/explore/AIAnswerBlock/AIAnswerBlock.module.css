@@ -1,0 +1,17 @@
+.aiAnswerBlock {
+  background: var(--color-primary-light);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+.aiBadge {
+  background: var(--color-primary);
+  color: white;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+}
+.summary {
+  margin: 0.5rem 0;
+  font-weight: 500;
+}

@@ -1,0 +1,28 @@
+.mobileNav {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--color-bg);
+  border-top: 1px solid var(--color-border);
+  padding: 0.5rem;
+  justify-content: space-around;
+  z-index: 50;
+}
+.mobileNav a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  color: var(--color-text-secondary);
+  font-size: 0.75rem;
+}
+.mobileNav a.active {
+  color: var(--color-primary);
+}
+@media (max-width: 768px) {
+  .mobileNav {
+    display: flex;
+  }
+}

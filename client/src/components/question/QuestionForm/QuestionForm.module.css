@@ -1,0 +1,21 @@
+.questionForm {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.field {
+  margin-bottom: 1.5rem;
+}
+.textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  background: var(--color-bg-input);
+  color: var(--color-text);
+  resize: vertical;
+}
+.error {
+  color: var(--color-danger);
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}

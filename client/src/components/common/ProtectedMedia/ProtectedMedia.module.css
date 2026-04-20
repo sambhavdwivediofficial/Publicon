@@ -1,0 +1,9 @@
+.image { display: block; max-width: 100%; height: auto; }
+.error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-gray-100);
+  color: var(--color-text-secondary);
+  padding: 1rem;
+}

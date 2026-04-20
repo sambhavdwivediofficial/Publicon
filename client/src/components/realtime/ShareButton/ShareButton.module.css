@@ -1,0 +1,11 @@
+.shareButton {
+  background: none;
+  border: none;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 9999px;
+}
+.shareButton:hover {
+  background: var(--color-gray-100);
+}

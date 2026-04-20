@@ -1,0 +1,13 @@
+.skeleton {
+  background: linear-gradient(90deg, var(--color-skeleton-start) 25%, var(--color-skeleton-end) 50%, var(--color-skeleton-start) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+.rect { border-radius: 0.25rem; }
+.circle { border-radius: 50%; }
+.text { border-radius: 0.25rem; height: 1rem; }
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}

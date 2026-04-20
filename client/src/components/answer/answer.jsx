@@ -1,0 +1,1 @@
+export default function answer { return <div>answer</div>; }
