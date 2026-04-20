@@ -1,0 +1,216 @@
+PUBLICON — PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Sambhav Dwivedi. All Rights Reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT — READ CAREFULLY BEFORE ACCESSING OR USING THIS SOFTWARE
+
+This License Agreement ("Agreement") is a legal agreement between you
+("User") and Sambhav Dwivedi ("Author"), the sole creator and owner of
+Publicon, governing your access to and use of the Publicon software,
+including all source code, compiled binaries, documentation, design assets,
+configuration files, and associated materials (collectively, the "Software").
+
+By accessing, downloading, viewing, running, or otherwise interacting with
+the Software in any form, you agree to be fully bound by the terms of this
+Agreement. If you do not agree to these terms in their entirety, you must
+immediately cease all access to and use of the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software is the exclusive intellectual property of Sambhav Dwivedi.
+All rights, title, and interest in and to the Software — including but not
+limited to all copyrights, patents, trade secrets, trademarks, moral rights,
+and all other intellectual property rights anywhere in the world — are and
+shall remain solely and exclusively with the Author.
+
+This Agreement does not transfer, assign, or convey any ownership interest
+in the Software to the User. No rights are granted except those explicitly
+stated herein.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. GRANT OF LIMITED LICENSE
+
+Subject to the User's full and continued compliance with all terms of this
+Agreement, the Author grants the User a limited, personal, non-exclusive,
+non-transferable, non-sublicensable, revocable license solely to:
+
+(a) View the source code of the Software from its official repository
+    for personal, non-commercial evaluation and educational reference; and
+
+(b) Run the Software locally on the User's own personal device for
+    private, non-commercial, non-production use only.
+
+Any use of the Software beyond what is expressly permitted in this Section 2
+is strictly prohibited and constitutes a material breach of this Agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. RESTRICTIONS
+
+The User shall NOT, under any circumstances, directly or indirectly:
+
+(a) Copy, reproduce, duplicate, mirror, or archive the Software or any
+    portion of it in any medium or format;
+
+(b) Modify, adapt, translate, reverse engineer, decompile, disassemble,
+    or create derivative works based on the Software or any part of it;
+
+(c) Distribute, publish, sublicense, sell, rent, lease, lend, transfer,
+    or otherwise make the Software available to any third party;
+
+(d) Use the Software, its architecture, design patterns, source code,
+    algorithms, or any component thereof to develop, train, or improve
+    any competing or similar product or service;
+
+(e) Remove, obscure, disable, or alter any copyright notices, proprietary
+    legends, or identifying marks contained in or on the Software;
+
+(f) Host, deploy, or operate the Software or any derivative of it in
+    any public-facing, commercial, or production environment;
+
+(g) Use the Software in connection with any unlawful, harmful, fraudulent,
+    or deceptive activity;
+
+(h) Publicly represent the Software as your own work, or misrepresent
+    your relationship to the Author or the Software in any way.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. NO OPEN SOURCE RIGHTS
+
+This Software is NOT open source. The fact that the source code may be
+publicly visible in a repository does not grant any rights beyond those
+explicitly stated in Section 2 of this Agreement.
+
+Visibility is not permission. Access is not license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. CONTRIBUTIONS
+
+Any feedback, suggestions, ideas, or improvements submitted by the User
+to the Author regarding the Software ("Contributions") shall become the
+sole and exclusive property of the Author. The User irrevocably assigns
+all rights, title, and interest in any Contribution to the Author and
+waives any claim to compensation or attribution for such Contributions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING
+BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, AND SECURITY.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET THE USER'S
+REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, BE ERROR-FREE, OR BE FREE
+OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF DATA,
+LOSS OF PROFITS, LOSS OF REVENUE, BUSINESS INTERRUPTION, LOSS OF GOODWILL,
+OR ANY OTHER COMMERCIAL OR ECONOMIC LOSS, ARISING OUT OF OR IN CONNECTION
+WITH THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE,
+EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+THE AUTHOR'S TOTAL CUMULATIVE LIABILITY TO THE USER FOR ALL CLAIMS
+ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED
+ZERO RUPEES (INR 0).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. INDEMNIFICATION
+
+The User agrees to indemnify, defend, and hold harmless the Author from
+and against any and all claims, liabilities, damages, losses, costs, and
+expenses (including reasonable legal fees) arising out of or in connection
+with the User's access to or use of the Software, the User's violation of
+this Agreement, or the User's violation of any applicable law or the rights
+of any third party.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. TERMINATION
+
+This Agreement is effective from the moment the User first accesses the
+Software and continues until terminated.
+
+The Author may terminate this Agreement and all rights granted hereunder
+immediately and without prior notice if the User breaches any term of
+this Agreement or if the Author decides to discontinue the Software.
+
+Upon termination for any reason:
+
+(a) All rights and licenses granted to the User under this Agreement
+    shall immediately and automatically cease;
+
+(b) The User must permanently delete all copies of the Software in
+    their possession or control, including partial copies and backups;
+
+(c) Sections 1, 3, 4, 6, 7, 8, 10, and 11 shall survive termination
+    and remain in full force and effect.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by, construed, and enforced in accordance
+with the laws of India, without regard to its conflict of law principles.
+
+Any dispute, controversy, or claim arising out of or relating to this
+Agreement, the Software, or any breach thereof shall be subject to the
+exclusive jurisdiction of the competent courts located in India.
+
+The User irrevocably submits to the personal jurisdiction of such courts
+and waives any objection to the laying of venue in such courts.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11. ENTIRE AGREEMENT AND SEVERABILITY
+
+This Agreement constitutes the entire and exclusive agreement between the
+User and the Author with respect to the Software, and supersedes all prior
+and contemporaneous negotiations, representations, warranties, agreements,
+and understandings, whether written or oral, relating to the subject matter
+hereof.
+
+If any provision of this Agreement is held to be invalid, illegal, or
+unenforceable under applicable law, such provision shall be modified to
+the minimum extent necessary to make it enforceable, and the remaining
+provisions shall continue in full force and effect.
+
+No waiver by the Author of any breach of this Agreement shall be deemed
+a waiver of any subsequent breach. Failure by the Author to enforce any
+provision of this Agreement shall not be construed as a waiver of the
+Author's rights.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. CONTACT
+
+For licensing inquiries, permissions beyond the scope of this Agreement,
+or any other matter relating to the Software, contact the Author at:
+
+    Sambhav Dwivedi
+    https://sambhavdwivedi.in
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Copyright (c) 2026 Sambhav Dwivedi. All Rights Reserved.
+
+Unauthorized use, reproduction, modification, distribution, or deployment
+of this Software, in whole or in part, is strictly prohibited and may
+result in civil and criminal penalties to the maximum extent permitted
+by applicable law.
