@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-black?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>Under Closed Development — Public Release Soon</strong>
+</p>
+
+<br/>
 <div align="center">
 
 <pre>
